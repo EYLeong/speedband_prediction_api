@@ -1,0 +1,5 @@
+data/raw/*
+data/processed/*
+data/temp/*
+**/__pycache__
+.vscode
